@@ -1,1 +1,2 @@
-# customer-bank-details-
+# customerbank
+Customer Bank Management System
