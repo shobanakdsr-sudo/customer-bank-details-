@@ -183,14 +183,6 @@ Practical experience with Spring Boot and JPA
 
 Improved debugging and clean coding practices
 
-🧑‍💻 Internship Details
-
-Company: Sundaram Finance
-
-Duration: 17 December 2025 – 15 January 2026
-
-Role: Full-Stack Development Intern
-
 🙋 Author
 
 Shobana D
